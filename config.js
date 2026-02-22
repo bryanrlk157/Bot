@@ -1,10 +1,1 @@
 
-module.exports = {
-    TOKEN: "MTQ3NDkzMDUzNDQ2MjI1OTI2MA.G3v8IK.DNBN-9XEoXmR84YkF0brkJOrwJFIr2CIe_uwnw",
-    CARGO_ID: "1474791757660029088",
-    CANAL_AUTH: "1474791826186698856",
-    CANAL_LOG: "1474929051742503073",
-
-    // Anti-bot: idade mínima da conta em dias
-    IDADE_MINIMA_DIAS: 3
-};
