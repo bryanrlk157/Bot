@@ -1,0 +1,12 @@
+{
+  "name": "safira-auth-pro",
+  "version": "2.0.0",
+  "description": "Safira PRO Auth Bot com anti-bot e logs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
